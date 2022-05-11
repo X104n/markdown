@@ -72,3 +72,15 @@ function add(num1, num2){
 def add(num1, num2):
     return num1 + num2
 ```
+
+<!-- Tables -->
+
+| Name | Email |
+| --- | --- |
+| John Doe | john@gmail.com |
+| Jane Doe | jane@gmail.com |
+
+<!-- Task List -->
+* [x] Task 1
+* [x] Task 2
+* [ ] Task 3
