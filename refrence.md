@@ -34,7 +34,6 @@ ___
 
 <!-- Blockquote -->
 ## Write blockquotes:
----
 > This is a quote
 ___
 <!-- Links -->
